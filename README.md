@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student with project experience in concurrent Java systems, Python APIs and<br>PyTorch-based chess AI. Built message-driven services, neural search agents and automated tests;<br>also tutor Python and object-oriented programming.
+I’m a Computer Science student who enjoys turning complex problems into practical software. My projects span concurrent Java systems, Python APIs, and chess AI with PyTorch, with a focus on reliable services, search algorithms, and automated testing. I also tutor Python and object-oriented programming, helping others build confidence in writing and understanding code.
 
 
 ## 🌐 Socials:
