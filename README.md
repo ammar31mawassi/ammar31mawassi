@@ -4,7 +4,7 @@
 
 I enjoy figuring out how software works by building things, experimenting, and learning along the way. My projects range from concurrent Java services and compilers to neural-network chess AI. I also tutor Python and object-oriented programming, helping students turn unfamiliar concepts into working code.
 
-[Portfolio](https://github.com/ammar31mawassi/Personal-Portfolio#readme) · [LinkedIn](https://www.linkedin.com/in/ammar-mawassi-b1b247363/)
+[Portfolio](https://ammar31mawassi.github.io/Personal-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/ammar-mawassi-b1b247363/)
 
 ## Selected projects
 
@@ -12,7 +12,7 @@ Three different ways I've explored software:
 
 | Project | What I explored | Technologies |
 | --- | --- | --- |
-| [♟️ Chess AI](https://github.com/ammar31mawassi/chess-AI) | Combining neural networks with PUCT search, training, and evaluation to build a chess agent. | Python, PyTorch |
+| [♟️ Chess AI](https://github.com/ammar31mawassi/chess-AI) | Exploring classical search, a policy-value neural network, supervised training, and controlled evaluation. | Python, PyTorch |
 | [🤖 Concurrent Robotics Framework](https://github.com/ammar31mawassi/Concurrent-Robotics-Framework) | Coordinating concurrent microservices, processing sensor data, and fusing a shared map in a robotics simulation. | Java, Maven |
 | [⚙️ Scheme Compiler](https://github.com/ammar31mawassi/Compiler-Project) | Translating Scheme through an OCaml compiler, with an assembly runtime and a documented build and test workflow. | OCaml, Assembly |
 
