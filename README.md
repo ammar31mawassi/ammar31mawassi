@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student who enjoys turning complex problems into practical software. My projects span concurrent Java systems, Python APIs, and chess AI with PyTorch, with a focus on reliable services, search algorithms, and automated testing. I also tutor Python and object-oriented programming, helping others build confidence in writing and understanding code.
+I’m Ammar, a Computer Science student interested in how software works—from concurrent services and compilers to neural-network chess agents. I build projects with Java, Python, C++, and OCaml, exploring system design, search algorithms, and automated testing. I also tutor Python and object-oriented programming, helping students turn difficult concepts into working code.
 
 
 ## 🌐 Socials:
