@@ -1,21 +1,54 @@
-# 💫 About Me:
-I’m Ammar, a Computer Science student interested in how software works—from concurrent services and compilers to neural-network chess agents. I build projects with Java, Python, C++, and OCaml, exploring system design, search algorithms, and automated testing. I also tutor Python and object-oriented programming, helping students turn difficult concepts into working code.
+# Hi, I'm Ammar 👋
 
+**Computer Science student exploring and learning software.**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-mawassi-b1b247363/)
+I enjoy figuring out how software works by building things, experimenting, and learning along the way. My projects range from concurrent Java services and compilers to neural-network chess AI. I also tutor Python and object-oriented programming, helping students turn unfamiliar concepts into working code.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ammar31mawassi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ammar31mawassi&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ammar31mawassi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[Portfolio](https://github.com/ammar31mawassi/Personal-Portfolio#readme) · [LinkedIn](https://www.linkedin.com/in/ammar-mawassi-b1b247363/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ammar31mawassi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Selected projects
 
----
-[![](https://komarev.com/ghpvc/?username=ammar31mawassi&icon=0&color=0)](https://visitcount.itsvg.in)
+Three different ways I've explored software:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | What I explored | Technologies |
+| --- | --- | --- |
+| [♟️ Chess AI](https://github.com/ammar31mawassi/chess-AI) | Combining neural networks with PUCT search, training, and evaluation to build a chess agent. | Python, PyTorch |
+| [🤖 Concurrent Robotics Framework](https://github.com/ammar31mawassi/Concurrent-Robotics-Framework) | Coordinating concurrent microservices, processing sensor data, and fusing a shared map in a robotics simulation. | Java, Maven |
+| [⚙️ Scheme Compiler](https://github.com/ammar31mawassi/Compiler-Project) | Translating Scheme through an OCaml compiler, with an assembly runtime and a documented build and test workflow. | OCaml, Assembly |
+
+## What I'm exploring
+
+- **Systems and concurrency:** how independent components communicate and work together.
+- **AI and search:** how learning and search algorithms can guide decisions.
+- **Languages and compilers:** how code becomes something a machine can execute.
+
+I like exploring different areas of software and connecting what I learn across projects.
+
+## Technologies I've worked with
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
+
+**Libraries and tools**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Let's connect
+
+I'm happy to talk about projects, share what I've learned, and learn from other developers.
+
+[Find me on LinkedIn](https://www.linkedin.com/in/ammar-mawassi-b1b247363/) · [Explore my projects](https://github.com/ammar31mawassi?tab=repositories)
+
+<details>
+<summary>GitHub activity</summary>
+
+![Ammar's GitHub statistics](https://github-readme-stats.shion.dev/api?username=ammar31mawassi&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
+
+</details>
