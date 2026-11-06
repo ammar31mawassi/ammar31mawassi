@@ -2,7 +2,7 @@
 
 **Computer Science student exploring and learning software.**
 
-I enjoy figuring out how software works by building things, experimenting, and learning along the way. My projects range from concurrent Java services and compilers to neural-network chess AI. I also tutor Python and object-oriented programming, helping students turn unfamiliar concepts into working code.
+I enjoy figuring out how software works by building things, experimenting, and learning along the way. My projects range from interactive graphics and compilers to neural-network chess AI. I also tutor Python and object-oriented programming, helping students turn unfamiliar concepts into working code.
 
 [Portfolio](https://ammar31mawassi.github.io/Personal-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/ammar-mawassi-b1b247363/)
 
@@ -13,7 +13,7 @@ Three different ways I've explored software:
 | Project | What I explored | Technologies |
 | --- | --- | --- |
 | [♟️ Chess AI](https://github.com/ammar31mawassi/chess-AI) | Exploring classical search, a policy-value neural network, supervised training, and controlled evaluation. | Python, PyTorch |
-| [🤖 Concurrent Robotics Framework](https://github.com/ammar31mawassi/Concurrent-Robotics-Framework) | Coordinating concurrent microservices, processing sensor data, and fusing a shared map in a robotics simulation. | Java, Maven |
+| [Interactive Rubik's Cube](https://github.com/ammar31mawassi/ComputerGraphics_Assignment3/tree/main/Task1-RubiksCube) | Rendering an interactive 3D cube with face rotations, camera controls, and color picking in Computer Graphics Assignment 3. | C++, OpenGL, GLFW, GLM |
 | [⚙️ Scheme Compiler](https://github.com/ammar31mawassi/Compiler-Project) | Translating Scheme through an OCaml compiler, with an assembly runtime and a documented build and test workflow. | OCaml, Assembly |
 
 ## What I'm exploring
