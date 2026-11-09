@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/ammar31mawassi/git-cat">
+    <img src="https://raw.githubusercontent.com/ammar31mawassi/git-cat/main/generated/ammar31mawassi-cat-with-legend.gif" width="384" alt="My coding cat walking on a mini globe, with language-colored patches and GitHub language percentages" />
+  </a>
+</p>
+
 # Hi, I'm Ammar 👋
 
 **Computer Science student exploring and learning software.**
